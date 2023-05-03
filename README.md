@@ -7,5 +7,5 @@ API: https://api.isevenapi.xyz/api/iseven
 
 # Application Preview
 
-https://user-images.githubusercontent.com/25689142/235897367-e934cbbb-e8f9-4cc6-ac60-6e8b3c0153d1.mp4
+https://user-images.githubusercontent.com/25689142/235898417-6f3c6753-51f7-4111-9279-2daa0edb246a.mp4
 
