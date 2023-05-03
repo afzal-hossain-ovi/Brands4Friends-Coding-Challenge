@@ -7,5 +7,5 @@ API: https://api.isevenapi.xyz/api/iseven
 
 # Application Preview
 
-Uploading Simulator Screen Recording - iPhone 14 Pro - 2023-05-03 at 12.49.54.mp4…
+https://user-images.githubusercontent.com/25689142/235896667-408e9f9c-905f-4ef3-a666-d106edd49010.mp4
 
