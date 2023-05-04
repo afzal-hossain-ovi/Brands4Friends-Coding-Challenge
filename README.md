@@ -3,7 +3,7 @@
 
 An iOS Application to check the number is even or odd using API. The application has written in SwiftUI and Combine.
 
-API: https://api.isevenapi.xyz/api/iseven
+API: https://isevenapi.xyz
 
 # Application Preview
 
